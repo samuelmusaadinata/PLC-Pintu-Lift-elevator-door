@@ -12,6 +12,7 @@ A PLC program sequence for an automatic elevator door, created back when I was i
 - TOR (for safety)
 ###   ↓
 ## 🧠PLC
+- CP1E
 ###   ↓
 ## 🚪Outputs:
 - Motor
